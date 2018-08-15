@@ -1,0 +1,14 @@
+{
+  "name": "UiDemo_Dispatcher_1",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6797.34871",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
