@@ -1,0 +1,24 @@
+LESSON 2 – VARIABLES AND DATA TYPES - RECAPThis lesson introduced you to the overall UiPath Studio interface and the way to add Activities to your project. 
+You learnt about manipulating variables and how Sequence and Flowchart work.
+OverviewTakeaways
+Make sure you use explicit names for your Activities.
+Main types of variables are: integer, string, datetime, boolean, generic, array of …
+Generic variables can hold any type of data.
+.
+Renaming a variable in the variables pane propagates the changes throughout your 
+project.
+Any variable has a scope which defines its lifetime.
+You used these activities: MessageBox and Assign.
+There are 2 ways of organizing the performed actions – Sequence for short and simple 
+workflows, and Flowchart for more complex workflows and high level organisation.
+UiPath Studio has 3 main areas – Activities panel, Workflow designer and Properties 
+panel.Best practices
+It’s very important to use relevant names for your Activities.
+Sequences are better suited for simple and small scenarios where the Activities
+follow each other. They are the preferred layout for most workflows.
+Flowcharts are best when you need to showcase decision points within a process and 
+they offer higher flexibility regarding the connections between Activities.Managing Variables
+Types of Variables
+Managing Arguments
+About Imported Namespaces
+Useful links
